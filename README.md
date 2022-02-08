@@ -37,11 +37,11 @@ Download this repository as a `ZIP` file and follow the below steps.
 
 2. Open up the `Test.psd` file and navigate to `File/Scripts` to execute the script.
 
-    ![Script Navigation in Adobe Illustrator](Screenshots/PhotoshopScriptNavigation.png)
+    ![Script Navigation in Adobe Photoshop](Screenshots/PhotoshopScriptNavigation.png)
 
 ## Result
 
-After a successful export, your text would popup in **Notepad**. Change the text alignment from left to right to view the Urdu text correctly.
+After a successful export, your text would pop up in **Notepad**. Change the text alignment from left to right to view the Urdu text correctly.
 
 ![Changing Text Alignment in Notepad](Screenshots/NotepadTextAlignment.gif)
 
@@ -55,7 +55,7 @@ Below are some interesting facts that you can try out.
 
 2. Open up multiple files & export them within a single click shown in the below image.
 
-    ![Multiple File Support](Screenshots/MultipleFileSupport.png)
+    ![Multiple File Export Support](Screenshots/MultipleFileSupport.png)
 
 3. Run the scripts with other languages by changing the file encoding; refer to the below snippet.
 
