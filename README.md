@@ -1,6 +1,8 @@
 
 # Text Extraction From Adobe Illustrator & Photoshop To Notepad
 
+![Depiction of Text Extraction From Adobe Illustrator & Photoshop into Notepad.](https://miro.medium.com/max/1400/1*YtXOQKDUxxnDtN2B9HBsoA.png)
+
 Code Scripts to export text from Adobe Illustrator & Photoshop into Notepad.
 
 ## The Problem
@@ -12,6 +14,8 @@ As a **graphic designer**, during extensive typing work, there comes a time when
 📝 Extract out all the text within just a few clicks?
 
 🗒️ Automatically save the extracted text in a notepad file?
+
+To get into more details, read [this medium article](https://levelup.gitconnected.com/how-to-export-text-from-adobe-illustrator-and-photoshop-to-notepad-95da5d2bea15).
 
 ## The Solution
 
