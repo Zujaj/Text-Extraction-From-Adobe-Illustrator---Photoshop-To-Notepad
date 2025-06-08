@@ -70,3 +70,7 @@ fileOut.encoding = "UTF-16"; // Change it to UTF-8 or UTF-32
 ## Acknowledgment
 
 Thanks to [Bramus](https://www.bram.us/2008/10/30/ps_bramustextconvert-psd2txt-and-txt2psd-for-the-masses/) for sharing the script code on [GitHub](https://github.com/bramus/PS_BRAMUS.TextConvert).
+
+## Contribution
+
+Feel free to contribute to this repository by submitting a [pull request](.github/pull_request_template.md) or opening an issue. Your contributions are welcome!
